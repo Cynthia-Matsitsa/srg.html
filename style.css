@@ -1,0 +1,14 @@
+#container{
+    padding: 20px;
+    margin: 5%;
+    border-style: dotted;
+    border-color: rgb(42, 165, 63);
+    
+    
+}
+#contain{
+    border: 1px solid;
+    border-color: chartreuse;
+padding: 20px;
+margin: 5%;
+} 
